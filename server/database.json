@@ -1,0 +1,28 @@
+{
+    "people": [
+        {
+            "id": 5,
+            "first_name": "Carolina",
+            "last_name": "Tascon",
+            "email": "carote0519@hotmail.com"
+          },
+          {
+            "id": 6,
+            "first_name": "Felipe",
+            "last_name": "Rod",
+            "email": "feliperod0519@hotmail.com"
+          },
+          {
+            "id": 7,
+            "first_name": "Manchitas",
+            "last_name": "Rod",
+            "email": "manchitas@gmail.com"
+          },
+          {
+            "id": 8,
+            "first_name": "Peter",
+            "last_name": "Kantroupus",
+            "email": "peterk@yahoo.com"
+          }
+    ]
+}
